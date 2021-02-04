@@ -25,3 +25,9 @@ https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
 ```sh
 https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_FILE_PATH>/badge.svg
 ```
+
+以 Markdown 为名示例：
+
+```sh
+![xinetzone](https://github.com/xinetzone/xinetzone-actions/workflows/xinetzone/badge.svg)
+```
